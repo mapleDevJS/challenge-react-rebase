@@ -6,4 +6,11 @@ export const mockArticles = [
     img_url: 'https://picsum.photos/292/242?random=1',
     alt: 'alt description',
   },
+  {
+    id: 2,
+    header: 'Auto Review: Jaguar',
+    text: 'Jaguar is the luxury vehicle brand of Jaguar Land Rover, a British multinational car manufacturer with its headquarters in Whitley, Coventry, England. Jaguar Cars was the company that was responsible for the production of Jaguar cars until its operations were fully merged with those of Land Rover to form Jaguar Land Rover on 1 January',
+    img_url: 'https://picsum.photos/292/242?random=2',
+    alt: 'alt description',
+  }
 ];
